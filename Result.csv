@@ -1,0 +1,45 @@
+﻿Website,Page,URL,1.1.1 Non-text content,1.2.1.  Audio-only and Video-only,1.2.2. Captions (Pre-recorded audio),1.2.3. Audio Description or Media Alternative (Pre-recorded),1.2.4. Captions (Live),1.2.5. Audio Description (Pre-recorded),1.3.1. Info and Relationships,1.3.2. Meaningful Sequence,1.3.3. Sensory Characteristics,1.3.4 Orientation,1.3.5 Identify Input Purpose,1.4.1 Use of Color,1.4.2 Audio Control,1.4.3 Contrast (Minimum),1.4.4 Resize text,1.4.5 Images of Text,1.4.10 Reflow,1.4.11 Non-Text Contrast,1.4.12 Text Spacing,1.4.13 Content on Hover or Focus,2.1.1. Keyboard,2.1.2. No Keyboard Trap,2.1.4. Character Key Shortcuts ,2.2.1 Timing Adjustable,"2.2.2 Pause, Stop, Hide",2.3.1 Three Flashes or Below Threshold,2.4.1 Bypass Blocks,2.4.2 Page Titled,2.4.3 Focus Order,2.4.4 Link Purpose (In Context),2.4.5 Multiple Ways,2.4.6 Headings and Labels,2.4.7 Focus Visible,2.5.1 Pointer Gestures,2.5.2 Pointer Cancellation,2.5.3 Label in Name,2.5.4 Motion Actuation,3.1.1 Language of Page,3.1.2 Language of Parts,3.2.1 On Focus,3.2.2 On Input,3.2.2 On Input,3.2.4 Consistent Identification,3.3.1 Error Identification,3.3.2 Labels or Instructions,3.3.3 Error Suggestion,"3.3.4 Error Prevention (Legal, Financial, Data)",4.1.1 Parsing,"4.1.2 Name, Role, Value",4.1.3 Status Messages
+Github,page1,https://github.com/,4,1,1,1,1,1,4,4,4,4,4,4,1,2,4,4,4,2,4,4,4,4,1,1,1,1,4,4,4,2,4,3,4,4,4,4,1,4,1,4,4,4,4,4,4,4,4,2,4,0
+Github,page2,https://github.com/join,4,1,1,1,1,1,4,0,4,4,4,4,1,4,4,4,4,4,4,4,0,0,1,1,1,1,4,4,0,3,4,3,4,4,4,4,1,4,1,4,4,4,4,4,4,4,4,3,4,4
+Github,page3,https://github.com/login,4,1,1,1,1,1,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,4,1,1,1,1,4,4,4,4,4,3,4,4,4,4,1,4,1,4,4,4,4,4,4,4,4,2,4,0
+Github,page4,https://github.com/,4,1,1,1,1,1,0,0,4,4,4,4,1,3,4,4,0,2,4,4,4,4,1,1,1,1,4,4,4,4,4,4,4,4,4,4,1,4,1,4,4,4,4,4,4,4,4,4,4,1
+Github,page5,https://github.com/samadhiof/samadhiof and https://github.com/samadhiof,3,1,1,1,1,1,4,4,4,4,4,4,1,2,4,4,0,1,4,4,4,4,1,1,1,1,4,4,4,4,4,3,4,4,4,4,1,4,1,4,4,4,4,4,4,4,4,2,4,1
+Github,overall,https://github.com/,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GitLab,page1,https://about.gitlab.com/,3,0,1,0,1,0,1,4,4,4,3,4,4,2,4,4,4,2,4,4,4,4,1,1,1,1,0,4,4,3,4,1,2,4,4,4,1,4,1,4,4,4,4,4,0,4,4,2,2,1
+GitLab,page2,https://gitlab.com/users/sign_up,4,1,1,1,1,1,3,4,4,4,4,4,1,4,4,4,4,4,4,4,4,4,1,1,1,1,0,4,4,4,4,4,4,4,4,4,1,0,1,4,4,4,4,4,4,4,4,3,4,4
+GitLab,page3,https://gitlab.com/users/sign_in,4,1,1,1,1,1,4,4,4,4,4,4,1,2,4,4,4,2,4,4,4,4,1,1,1,1,0,4,4,4,4,3,4,4,4,4,1,0,1,4,4,4,4,4,0,4,4,2,4,4
+GitLab,page4,https://gitlab.com/ and https://gitlab.com/projects/new,0,1,1,1,1,1,0,4,4,4,4,4,1,2,4,4,4,2,4,4,4,4,1,1,1,1,4,4,4,3,4,1,4,4,4,4,1,4,1,4,4,4,4,4,0,4,4,1,3,1
+GitLab,page5,https://gitlab.com/samadhiof/test-gitlab,2,1,1,1,1,1,0,4,4,4,4,4,1,2,4,4,4,1,4,4,4,4,1,1,1,1,4,4,4,2,4,1,4,4,4,4,1,4,1,4,4,4,4,4,0,4,4,2,2,1
+GitLab,overall,https://about.gitlab.com/,3,3,3,3,3,3,3,3,3,3,3,3,4,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,4
+Bitbucket,page1,https://bitbucket.org/,3,1,1,1,1,1,4,4,4,4,4,4,1,3,4,4,4,3,4,4,4,4,1,1,1,1,0,4,4,3,4,2,2,4,4,4,1,4,1,4,4,4,4,4,0,4,4,2,3,1
+Bitbucket,page2,https://bitbucket.org/account/signup/,4,1,1,1,1,1,4,0,4,4,4,4,1,2,4,4,4,2,4,4,4,4,1,1,1,1,0,4,4,3,4,3,4,4,4,4,1,4,1,4,4,4,4,4,0,4,4,2,4,4
+Bitbucket,page3,https://bitbucket.org/account/signin/ ,4,1,1,1,1,1,4,4,4,4,4,4,1,4,4,4,4,3,4,4,4,4,1,1,1,1,0,4,4,3,4,3,4,4,4,4,1,4,1,4,4,4,4,4,0,4,4,2,4,4
+Bitbucket,page4,https://bitbucket.org/dashboard/overview and https://bitbucket.org/repo/create,1,1,1,1,1,1,2,0,4,4,4,4,1,3,4,4,4,3,4,4,4,4,1,1,1,1,0,4,4,2,4,4,4,4,4,4,1,4,1,4,4,4,4,4,0,4,4,2,4,1
+Bitbucket,page5,https://bitbucket.org/kakarsam/test/src/master/,1,1,1,1,1,1,2,0,4,4,4,4,1,3,4,4,4,3,4,4,4,4,1,1,1,1,0,4,4,4,4,2,4,4,4,4,1,4,1,4,4,4,4,4,0,4,4,3,3,1
+Bitbucket,overall,https://bitbucket.org/,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+SonarQube,page1,https://sonarcloud.io/,4,1,1,1,1,1,4,4,4,4,4,4,1,2,4,1,2,1,4,4,4,4,1,1,1,1,0,4,4,3,4,4,2,4,4,4,1,4,1,4,4,4,4,4,4,4,1,3,3,1
+SonarQube,page2,https://sonarcloud.io/projects and https://sonarcloud.io/projects/create  ,4,1,1,1,1,1,2,4,4,4,4,4,1,2,4,1,2,1,2,4,4,4,4,1,1,1,4,4,4,4,4,2,4,4,4,4,1,4,1,4,4,4,4,4,0,4,1,1,1,4
+SonarQube,page3,https://sonarcloud.io/dashboard,4,1,1,1,1,1,3,4,4,4,4,4,1,2,4,1,2,1,2,4,4,4,4,1,1,1,4,4,4,4,4,4,4,4,4,4,1,4,1,4,4,4,4,4,0,4,1,2,1,1
+SonarQube,overall,https://sonarcloud.io/,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,3,4
+Travis CI,page1,https://travis-ci.com/,1,1,1,1,1,1,3,4,4,4,4,4,1,2,4,4,4,2,4,4,4,4,1,1,1,1,0,4,4,4,4,3,3,4,4,4,1,0,1,4,4,4,4,4,4,4,4,4,4,1
+Travis CI,page2,https://travis-ci.com/dashboard,4,1,1,1,1,1,2,4,4,4,4,4,1,2,4,4,4,2,4,4,4,4,1,1,1,1,0,4,4,3,4,3,4,4,4,4,1,0,1,4,4,4,4,4,4,4,4,3,3,1
+Travis CI,page3,https://travis-ci.com/samadhiof/samadhiof,4,1,1,1,1,1,3,4,4,4,4,4,1,2,4,4,4,2,4,4,4,4,1,1,1,1,0,4,4,3,4,3,4,4,4,4,1,0,1,4,4,4,4,4,0,4,4,2,3,1
+Travis CI,overall,https://travis-ci.com/,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Slack,page1,https://slack.com/,4,0,1,0,1,0,4,4,4,4,4,4,4,2,4,4,4,2,4,4,4,4,1,1,1,1,4,4,0,2,4,4,4,4,4,4,1,4,1,4,4,4,4,4,4,4,1,1,4,1
+Slack,page2,https://slack.com/get-started#/create and https://slack.com/intl/en-no/create#confirmemail,3,1,1,1,1,1,4,4,4,4,4,4,1,2,4,4,4,1,4,4,4,4,1,1,1,1,0,4,4,4,4,2,4,4,4,4,1,4,1,4,4,4,4,4,0,4,1,2,2,4
+Slack,page3,"https://slack.com/signin and https://devops-yhw7199.slack.com/ 	",4,1,1,1,1,1,4,4,4,4,4,4,1,2,4,4,4,2,4,4,4,4,1,1,1,1,0,4,2,2,4,0,4,4,4,4,1,4,1,4,4,4,4,4,0,4,1,4,2,4
+Slack,page4,https://app.slack.com/client/ ,4,1,1,1,1,1,4,0,4,4,4,4,1,2,4,4,4,1,4,4,4,0,1,1,1,1,0,4,4,3,4,0,4,4,4,4,1,4,1,4,4,4,4,4,0,4,1,3,0,1
+Slack,overall,https://slack.com/,2,2,2,2,2,2,2,2,2,2,2,2,4,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4
+Trello,page1,https://trello.com/,2,1,1,1,1,1,4,4,4,4,4,4,1,2,4,4,4,1,4,4,4,4,1,1,1,1,0,4,4,2,4,0,0,4,4,4,1,0,1,4,4,4,4,4,0,4,4,2,4,4
+Trello,page2,https://trello.com/signup,1,1,1,1,1,1,4,4,4,4,4,4,1,2,4,4,4,1,4,4,4,4,1,1,1,1,0,4,4,4,4,0,2,4,4,4,1,0,1,4,4,4,4,4,0,4,4,2,4,4
+Trello,page3,https://trello.com/login,2,1,1,1,1,1,4,4,4,4,4,4,1,2,4,4,4,1,4,4,4,4,1,1,1,1,0,4,2,0,4,0,2,4,4,4,1,0,1,4,4,4,4,4,0,4,4,2,4,4
+Trello,page4,https://trello.com/skakar1/boards,2,1,1,1,1,1,0,4,4,4,4,4,1,2,4,4,4,1,4,4,4,4,4,1,1,1,0,4,4,0,4,0,2,4,4,4,1,4,1,4,4,4,4,4,0,4,4,0,2,1
+Trello,page5,https://trello.com/b/PNixNfE4/devops,1,1,1,1,1,1,0,4,4,4,4,4,1,3,4,4,4,1,4,4,4,4,4,1,1,1,0,4,4,4,4,0,4,4,4,4,1,4,1,4,4,4,4,4,0,4,4,0,2,1
+Trello,overall,https://trello.com/,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Heroku,page1,https://www.heroku.com/,3,0,1,0,1,0,1,4,4,4,3,4,4,2,4,4,4,2,4,4,4,4,1,1,1,1,0,4,4,3,4,1,2,4,4,4,1,4,1,4,4,4,4,4,0,4,4,2,2,1
+Heroku,page2,https://signup.heroku.com/,4,1,1,1,1,1,4,4,4,4,4,4,1,3,4,4,4,3,4,4,4,4,1,1,1,1,0,4,4,4,4,3,4,4,4,4,1,0,1,4,4,4,4,4,4,4,4,3,4,4
+Heroku,page3,https://id.heroku.com/login,4,1,1,1,1,1,3,4,4,4,4,4,1,3,4,4,4,4,4,4,4,4,1,1,1,1,0,4,4,3,4,3,4,4,4,4,1,4,1,4,4,4,4,4,4,4,4,2,3,4
+Heroku,page4,https://dashboard.heroku.com/ and https://dashboard.heroku.com/new-app  ,4,1,1,1,1,1,1,0,4,4,4,4,1,3,4,4,4,3,4,4,4,4,1,1,1,1,0,4,4,3,4,2,2,4,4,4,1,4,1,4,4,4,4,4,0,4,4,3,3,4
+Heroku,page5,https://dashboard.heroku.com/apps/wcag-test,4,1,1,1,1,1,1,4,4,4,4,4,1,3,4,4,4,3,4,4,4,4,1,1,1,1,4,4,4,3,4,2,2,4,4,4,1,4,1,4,4,4,4,4,0,4,4,3,3,1
+Heroku,overall,https://www.heroku.com/,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+All DevOps tool,overall,/,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
